@@ -1,0 +1,6 @@
+{
+  "program": "vehicle_age.aleo",
+  "version": "0.2.0",
+  "description": "This Leo program, `vehicle_age.aleo`, is designed to calculate the age of a vehicle based on its manufacturing year and the current year.",
+  "license": "MIT"
+}
